@@ -1,2 +1,3 @@
-# Python_Programs
-Pratical programs which are developed in python
+# Python Programs
+
+This repositry contains the programs which are done for the practical purpose while doing MCA
